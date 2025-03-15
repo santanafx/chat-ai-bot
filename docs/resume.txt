@@ -1,0 +1,141 @@
+Contact
+Belo Horizonte, Minas Gerais
++55 31 99791 5854 (Home)
+santanafx@hotmail.com
+LinkedIn
+GitHub (Portfolio)
+
+Key Skills
+User Experience (UX)
+React
+JavaScript
+Languages
+Portuguese (Native or Bilingual)
+English (Full Professional Proficiency)
+French (Elementary)
+Certifications
+First Certificate in English
+MySQL
+HTML and CSS Training
+User Experience
+React: Practicing React with JavaScript
+Lucas Santana Figueiredo
+Software Engineer | Front End | React | TypeScript | Next.js | UI/UX | GraphQL | REST APIs | Jest | Vitest | Cypress
+Belo Horizonte, Minas Gerais, Brazil
+
+Summary
+Front-End Developer specializing in React and TypeScript. Professionally active since 2023. Experienced in building scalable, high-performance applications following best practices such as Clean Code, SOLID principles, and the Atomic Design methodology.
+
+I have experience creating robust applications using React, Next.js, Styled Components, GraphQL, Material UI, and Redux, as well as solid experience integrating RESTful and GraphQL APIs. I work with automated testing tools like Jest, Vitest, and Cypress to ensure high code quality and performance optimization.
+
+During my career, I also lived in Canada for two years, enhancing my communication skills and adapting to diverse work environments.
+
+Skills:
+
+React
+Next.js
+Node.js
+JavaScript | TypeScript
+GraphQL
+RESTful APIs
+Material UI
+HTML
+CSS
+SASS | LESS
+Styled-components
+Tailwind
+Redux
+Docker
+PostgreSQL
+Git | GitHub
+Storybook
+Cypress
+Jest
+For more details on the projects I've worked on, visit my GitHub: github.com/santanafx
+Email: santanafx@hotmail.com
+Phone: +55 31 99791 5854
+
+Experience
+Tellus Company
+Front-End Developer
+October 2023 - Present (1 year 6 months)
+Belo Horizonte, Minas Gerais, Brazil
+
+Developing digital solutions for engineering, creating robust and scalable applications with React, TypeScript, and modern technologies.
+
+Key Projects:
+Soil Analysis Software
+
+Developed interactive charts for geotechnical analysis.
+Implemented mathematical calculations and RESTful APIs for integration with the laboratory.
+Dam Monitoring System
+
+Created dashboards using Plotly and D3.js for data analysis.
+Integrated Google Maps API for geolocation of instruments.
+Used GraphQL and Apollo Client for efficient data handling and caching.
+Warehouse Management Platform
+
+Developed dynamic and paginated tables for material management.
+Implemented advanced forms with React Hook Form.
+Technologies Used:
+Front-End: React, Styled-Components
+State Management: React Query, Apollo Client
+Back-End: Node.js, REST APIs, GraphQL
+Data Visualization: Plotly, D3.js
+Testing: Jest, Cypress, Vitest
+Architecture: SOLID, Clean Code, Atomic Design
+Tecnocar Engenharia Ltda
+Designer
+October 2019 - December 2019 (3 months)
+Sete Lagoas, Brazil
+
+Planned new projects with suppliers.
+Conducted interference analysis using Catia software.
+Updated mechanical drawings for the production line.
+Developed projects to improve internal processes.
+Safran
+Product Analyst
+September 2018 - January 2019 (5 months)
+Montreal, Canada
+
+Reused obsolete parts in the company's warehouse.
+Reduced manufacturing costs of parts.
+Calculated prototype manufacturing costs.
+Care Access Research
+Call Center Representative
+February 2018 - September 2018 (8 months)
+Montreal, Canada
+
+Conducted market research through phone calls in English.
+Rayma Bombas
+Intern
+February 2016 - June 2016 (5 months)
+Belo Horizonte, Brazil
+
+Monitored the manufacturing process of submersible pumps.
+Maintained aluminum injection molding machines.
+Maintained plastic injection molding machines.
+Pontifícia Universidade Católica de Minas Gerais
+Scientific Research Volunteer
+February 2015 - November 2015 (10 months)
+Belo Horizonte, Brazil
+
+Developed a data acquisition and control system using Python and Arduino.
+Integrated pressure, temperature, and fuel flow sensors with electronic control valves connected to a system that included Arduino.
+Plantar Siderúrgica SA
+Intern
+June 2015 - July 2015 (2 months)
+Sete Lagoas, Brazil
+
+Studied theoretical and practical concepts on steam and power generation.
+Gained hands-on experience with applied mechanics, including alignment and balancing of rotating equipment, water pumps, ventilators, and blast furnaces.
+Education
+Pontifícia Universidade Católica de Minas Gerais
+Bachelor’s Degree in Mechatronic Engineering
+Programming, Robotics, and Automation (2010 - 2016)
+
+Herzing College
+AEC (Attestation of Collegial Studies), Technical Drawing
+(2017 - 2019)
+
+This English version keeps all the original details while making it clear and professional. Let me know if you'd like any tweaks! 🚀
