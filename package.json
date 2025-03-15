@@ -9,6 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ai-sdk/google": "^1.1.25",
+    "@google/generative-ai": "^0.24.0",
+    "@huggingface/agents": "^0.0.5",
+    "@huggingface/hub": "^1.0.2",
+    "@huggingface/inference": "^3.5.2",
+    "@langchain/community": "^0.3.35",
+    "@langchain/core": "^0.3.42",
+    "@langchain/ollama": "^0.2.0",
+    "@pinecone-database/pinecone": "^5.1.1",
+    "ai": "^4.1.61",
+    "dotenv": "^16.4.7",
+    "langchain": "^0.3.19",
+    "next": "15.2.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-toastify": "^11.0.5"
