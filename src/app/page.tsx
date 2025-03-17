@@ -1,7 +1,11 @@
 "use client";
+import Chat from "@/components/atoms/Chat/Chat";
+import Header from "@/components/atoms/Header/Header";
+import OutputArea from "@/components/atoms/OutputArea/OutputArea";
+import Text from "@/components/atoms/Text/Text";
 import { useChat } from "ai/react";
 import React from "react";
-import { toast } from "react-toastify";
+import style from "./page.module.css";
 
 const Home = () => {
   const {
@@ -15,51 +19,27 @@ const Home = () => {
     api: "api/chatroute",
   });
 
-  const handleCreateDatabase = async () => {
-    const response = await fetch("api/createdatabase", {
-      method: "POST",
-    });
-
-    if (response.ok) {
-      toast("Database created!");
-    }
-  };
-
   return (
-    <div>
-      <button onClick={handleCreateDatabase}>Create database</button>
-      <div>
-        <div>{isLoadingChat}</div>
-        <div>
-          {messages.map((message, index) => {
-            return (
-              <div key={index}>
-                <div>{message.role}</div>
-                <div>{message.content}</div>
-              </div>
-            );
-          })}
-        </div>
-        {data?.length !== undefined && data.length > 0 && (
-          <span>{(data[data.length - 1] as any).retrievals as string}</span>
-        )}
-        <form
-          onSubmit={(event) => {
-            event.preventDefault();
-            handleSubmit(event);
-          }}
-        >
-          <textarea
-            value={input}
-            onChange={handleInputChange}
-            placeholder="Type your query here"
-          />
-          <button disabled={isLoadingChat}>
-            {isLoadingChat ? "Loading..." : " Ask"}
-          </button>
-        </form>
-      </div>
-    </div>
+    <>
+      <Header />
+      <section className={style.sectionContainer}>
+        <Text type="h1" color="var(--text-color-main)">
+          Welcome to Chat with Text! To get started, upload your database by
+          clicking the gear icon in the top right corner and ask your question.
+        </Text>
+        <OutputArea
+          data={data}
+          isLoadingChat={isLoadingChat}
+          messages={messages}
+        />
+        <Chat
+          handleSubmit={handleSubmit}
+          handleInputChange={handleInputChange}
+          input={input}
+          isLoadingChat={isLoadingChat}
+        />
+      </section>
+    </>
   );
 };
 
